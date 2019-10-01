@@ -1,3 +1,3 @@
-# KNN-Clusters
+# KMeans-Clustering
 
-Using K Nearest Neighbours and Principal Component analysis to find optimum number of clustersin a data set.
+Using KMeans Clustering and Principal Component analysis to find optimum number of clustersin a data set.
